@@ -1,6 +1,6 @@
-const title = document.getElementById('places-name');
-title.setAttribute('title', 'Colo ghure asi');
+// const title = document.getElementById('places-name');
+// title.setAttribute('title', 'Colo ghure asi');
 
-const fruits = document.getElementsByClassName('fruits-container');
+// const fruits = document.getElementsByClassName('fruits-container');
 
-console.log(fruits[0].innerText);
+// console.log(fruits[0].innerText);
