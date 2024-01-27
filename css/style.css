@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+}
+
+li {
+  color: tomato;
+}
+
+#fruits-title {
+  color: chartreuse;
+}
+
+.important-name {
+  color: rgb(31, 13, 46);
+}
