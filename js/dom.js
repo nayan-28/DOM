@@ -5,5 +5,5 @@ for (const place of places) {
     console.log(place.innerText);
 }
 
-const fruitsTitle = document.getElementById('fruits-title');
-fruitsTitle.innerText = 'PineApple';
+const title = document.getElementById('places-name');
+title.setAttribute('title', 'Colo ghure asi');
